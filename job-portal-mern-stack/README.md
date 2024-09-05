@@ -1,0 +1,3 @@
+This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc.
+
+To use this app: clone this repo, in the root of jobPortal folder create a .env file with these variables PORT=9000 DATABASE=YOUR_MONGO_URL JWT_SECRET=fidbfbFCDSm1558 NODE_ENV=development if in development mode and NODE_ENV=production if you're deploying your App; after that, run "npm install" in the jobPortal root folder. Go inside frontend folder in jobPortal folder, run "npm install "
